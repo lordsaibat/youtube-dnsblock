@@ -1,0 +1,13 @@
+googlevideo.com
+m.youtube.com
+s.ytimg.com
+www.youtube.com
+youtube.com
+youtube.l.google.com
+ytimg.com
+ytimg.l.google.com
+(^|\.)YouTube$
+(^|\.)googlevideo$
+(^|\.)youtube$
+(^|\.)ytimg\.l\.google\.com$
+^.youtube.*
