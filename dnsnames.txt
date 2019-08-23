@@ -11,3 +11,4 @@ ytimg.l.google.com
 (^|\.)youtube$
 (^|\.)ytimg\.l\.google\.com$
 ^.youtube.*
+youtubei.googleapis.com
