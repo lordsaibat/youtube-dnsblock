@@ -13,3 +13,7 @@ ytimg.l.google.com
 ^.youtube.*
 youtubei.googleapis.com
 ^.ifunny.co*
+ifunny.co
+^.ifunny.co
+imageproxy.ifunny.co
+static.ifunny.co
