@@ -12,3 +12,4 @@ ytimg.l.google.com
 (^|\.)ytimg\.l\.google\.com$
 ^.youtube.*
 youtubei.googleapis.com
+^.ifunny.co*
